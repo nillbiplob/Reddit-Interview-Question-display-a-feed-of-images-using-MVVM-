@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Feed Test By Biplob</string>
+    <string name="errorString">No data is available or something went wrong</string>
+    <string name="refresh_button">Refresh Button</string>
+    <string name="image">Image</string>
+    <string name="arrow">Arrow</string>
+    <string name="no_internet_connection">No Internet Connection!</string>
+    <string name="processing">Processing…\nPlease wait…</string>
+</resources>
